@@ -29,13 +29,13 @@ pip install -r assets/requirements.txt
 
 Run the Iterative Server:
 ```bash
-cd IterativeServer
+cd Iterative-Server
 python server.py
 ```
 
 Run the Concurrent Server:
 ```bash
-cd ConcurrentServer
+cd Concurrent-Server
 python server.py
 ```
 
