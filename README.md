@@ -22,6 +22,11 @@
 * Outperforms iterative server in unpredictable and high-demand environments.
 
 ## How to Run
+Clone this repository
+```bash
+git clone https://github.com/DavidSchineis/Socket-Servers.git
+```
+
 Ensure Python 3.8+ is installed and install required libraries:
 ```bash
 pip install -r assets/requirements.txt
