@@ -1,6 +1,8 @@
 # Socket Servers
 >Two types of socket servers implemented in Python to highlight different approaches to handling multiple client connections.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-inactive.svg)](LICENSE)
+
 ## Features
 
 * Iterative Server handles client requests one at a time.
@@ -48,3 +50,7 @@ Run the corresponding client in another terminal:
 ```bash
 python client.py
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
